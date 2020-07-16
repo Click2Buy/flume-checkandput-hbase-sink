@@ -1,0 +1,1 @@
+# flume-checkandput-hbase-sink
